@@ -25,6 +25,3 @@ Feel free to reach out to me through my GitHub profile or any other social platf
 Let's build amazing things together! 🚀
 
 ![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
-
-<img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt="Example Image" width="300" height="200">
-
